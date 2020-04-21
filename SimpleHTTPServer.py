@@ -1,4 +1,3 @@
-#SimpleHTTPServer.py
 #!/usr/bin/env python
 
 import http.server
@@ -6,7 +5,8 @@ import socketserver
 
 print """
 	*--------------------------------------*
-	|       programmed by : Rahul            |
+	|       programmed by : mohamed        |
+	|           fb.me/hack1lab             |
 	*--------------------------------------*
 	   _                _    _       _     
 	  | |__   __ _  ___| | _| | __ _| |__  
